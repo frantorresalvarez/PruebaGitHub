@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\bin\Debug\net6.0\proyecto001.exe
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\bin\Debug\net6.0\proyecto001.deps.json
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\bin\Debug\net6.0\proyecto001.runtimeconfig.json
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\bin\Debug\net6.0\proyecto001.dll
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\bin\Debug\net6.0\proyecto001.pdb
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.AssemblyInfo.cs
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.dll
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\refint\proyecto001.dll
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.pdb
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\proyecto001.genruntimeconfig.cache
+C:\Users\franc\Desktop\FranciscoVisualEstudio\c#\proyecto001\proyecto001\obj\Debug\net6.0\ref\proyecto001.dll
